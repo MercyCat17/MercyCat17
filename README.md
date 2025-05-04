@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Sammi Kinnison Smith</h1>
-<h3 align="center">High school student looking to major in Computer Programming</h3>
+<h3 align="center">Attending University of Utah in the fall. Majoring on Computer Science.</h3>
 
-- 📫 How to reach me **sammi@baysmith.com**
-
+- 📫 How to reach me **skinnisonsmith@gmail.com**
+- 😄 Pronouns: she/her
 - ⚡ Fun fact **I love cats!**
 
 <h3 align="left">Connect with me:</h3>
