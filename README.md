@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Sammi Kinnison Smith</h1>
-<h3 align="center">Attending University of Utah. Majoring in Computer Science with an emphasis in Games. Minoring in Arts Technology.</h3>
+<h3 align="center">Attending University of Utah. Majoring in Computer Science with an emphasis in Games. Minoring in Art.</h3>
 
 - 📫 How to reach me **skinnisonsmith@gmail.com**
 - 😄 Pronouns: she/her
